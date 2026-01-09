@@ -20,3 +20,5 @@ Demo data consists of random subsamples of the [miRBase](https://www.mirbase.org
 10. Wie viele Sequenzen kommen nur ein einziges mal vor?
 
 ## Participants
+
+- Markus - [iimog](https://github.com/iimog)
