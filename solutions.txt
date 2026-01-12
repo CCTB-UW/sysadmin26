@@ -1,1 +1,2 @@
 2: Die Datei enthält 603 Zeilen.
+3: 12 Sequenzen enthalten "bta".
