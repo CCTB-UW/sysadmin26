@@ -21,6 +21,13 @@ Demo data consists of random subsamples of the [miRBase](https://www.mirbase.org
 
 ## Solutions
 
+<<<<<<< HEAD
+=======
+3. kleinste: 00_02, größte: 00_09
+4. wenigste: 00_02, meiste: 00_09
+5. atr-MIR8563, 451
+
+>>>>>>> 10ef287c5f82e27a767e83a14e222ec909fc3985
 ## Participants
 
 - Markus - [iimog](https://github.com/iimog)
