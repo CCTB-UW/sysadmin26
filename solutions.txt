@@ -1,2 +1,3 @@
 2: Die Datei enthält 603 Zeilen.
 3: 12 Sequenzen enthalten "bta".
+4: Kleinste Zahl: 18; Größte Zahl: 99999
