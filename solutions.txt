@@ -1,0 +1,3 @@
+Aufgabe 2: 603 Zeilen
+
+Aufgabe 3: Es gibt 12 Sequenzen die "bta" in der ID enthalten 
